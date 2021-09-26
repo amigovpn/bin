@@ -15,3 +15,4 @@ Public repo with cached binaries for AmigoVPN https://www.amigovpn.com/ - VPN se
 - Working with Netflix, Youtube, Spotify and others
 - VPN for streaming services
 - Remote working from a off country locations
+- Digital Privacy protection
